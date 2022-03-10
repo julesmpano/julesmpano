@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @julesmpano
-- 👀 I’m interested in all things data science, problem solving or getting lost in problem solving (either way!), i dream of clean data sets and making visually appealing charts
-- 🌱 I’m currently learning SQL,<30min/day it gets easier.
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in all things data science, problem solving or getting lost in problem solving (either way!), i dream of clean data sets and making visually appealing charts and graphics 
+- 🌱 I’m currently learning SQL,<30min/day (it gets easier!).
+- 💞️ I’m looking to collaborate on projects that include SQL querying
 - 📫 How to reach me juliette.mpano@gmail.com
 
 <!---
